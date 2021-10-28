@@ -1,5 +1,6 @@
 # Spotiflix
 Projeto para recriar a página da Netflix.
+<br />
 Tecnologias usadas:
 * Html
 * Css
